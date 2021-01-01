@@ -4,8 +4,8 @@ title: Hardware
 permalink: /hardware
 sequence: 2
 
-three_d: true
-pcb_layout: true
+three_d: false
+pcb_layout: false
 manufacturing: true
 gerber: false
 ---
