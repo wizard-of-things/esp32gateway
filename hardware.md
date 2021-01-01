@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Hardware
-permalink: /hardware
+permalink: /hardware.html
 sequence: 2
 
+ecad : false
 three_d: false
 pcb_layout: false
-manufacturing: true
+manufacturing: false
 gerber: false
 ---

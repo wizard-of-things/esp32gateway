@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Getting Started
-permalink: /
+permalink: /index.html
 sequence: 1
 
-manufacturing: true
-downloads: true
+manufacturing: false
+downloads: false
 download_schematic: true
-download_layout: false
+download_layout: true
 download_kicad: false
 download_gerber: false
 download_bom: false
