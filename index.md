@@ -26,28 +26,24 @@ download_bom: false
       <div class="tile">
         <div class="tile is-parent">
           <article class="tile is-child notification">
-            <p class="title">Step 1</p>
-            <p class="subtitle">The PCB has 2 battery holder connector holes that can be used to attach the battery holder.</p>
-            <a href="{{site.url}}/images/prototype/pcb-connector.jpg"><img src="{{site.url}}/images/prototype/pcb-connector.jpg" alt="PCB battery connector holes"></a>
-            <p class="subtitle">Put in 3 AA batteries and turn on the switch. The power LED should turn on.</p>
-            <a href="{{site.url}}/images/prototype/battery.jpg"><img src="{{site.url}}/images/prototype/battery.jpg" alt="PCB with battery holder"></a>
+            <p class="title">Front</p>
+            <p class="subtitle">123</p>
+            <a href="{{site.url}}/images/prototype/front.jpg"><img src="{{site.url}}/images/prototype/front.jpg" alt="PCB front"></a>
           </article>
         </div>
         <div class="tile is-parent">
           <article class="tile is-child notification">
-            <p class="title">Step 2</p>
-            <p class="subtitle">Flash the <a href="software#firmware">firmware</a> onto the Arduino Zero compatible board with a micro-USB cable.</p>
-            <a href="{{site.url}}/images/prototype/setup-page.png"><img src="{{site.url}}/images/prototype/setup-page.png" alt="Web USB setup page"></a>
-            <p class="subtitle">Connect to the serial monitor to see the debug messages.</p>
-            <a href="{{site.url}}/images/prototype/serial.png"><img src="{{site.url}}/images/prototype/serial.png" alt="Serial console"></a>
+            <p class="title">Top</p>
+            <p class="subtitle">123</p>
+            <a href="{{site.url}}/images/prototype/top.jpg"><img src="{{site.url}}/images/prototype/top.jpg" alt="PCB top"></a>
           </article>
         </div>
         <div class="tile is-parent">
           <article class="tile is-child notification">
             <div class="content">
-              <p class="title">Step 3</p>
-              <!-- TODO: Program the actual sleep and turning on to check the temperature -->
-              <p class="subtitle">Notice that the aircon should turn ON and OFF every 5 seconds as a test.</p>
+              <p class="title">Bottom</p>
+              <p class="subtitle">123</p>
+              <a href="{{site.url}}/images/prototype/bottom.jpg"><img src="{{site.url}}/images/prototype/bottom.jpg" alt="PCB bottom"></a>
             </div>
           </article>
         </div>
