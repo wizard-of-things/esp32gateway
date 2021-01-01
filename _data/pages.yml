@@ -1,7 +1,8 @@
 hardware: true
-download_kicad : false
-download_gerber : false
-download_bom : false
+manufacturing : false
+kicad : false
+gerber : false
+three_d : false
 software: false
 bom: false
 design: false
