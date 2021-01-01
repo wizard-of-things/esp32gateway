@@ -1,5 +1,5 @@
 hardware: true
-software: false
+software: true
 bom: false
 design: false
 power: false

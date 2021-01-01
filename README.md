@@ -1,7 +1,7 @@
-# Oak
+# Esp32 Gateway
 
-> 🌳 Measure outdoor distance between 2 keychain holders 🔑
+> ESP32 Gateway
 
-Visit [hutscape.com/oak](https://hutscape.com/oak) for more details.
+Visit [wizardofthings.com](https://wizardofthings.com) for more details.
 
 ![](images/prototype/front.jpg)

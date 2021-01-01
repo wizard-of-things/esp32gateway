@@ -5,7 +5,7 @@ permalink: /index.html
 sequence: 1
 
 manufacturing: true
-downloads: false
+downloads: true
 download_schematic: true
 download_layout: true
 download_kicad: false
