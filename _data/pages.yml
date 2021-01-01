@@ -1,4 +1,7 @@
-hardware: false
+hardware: true
+download_kicad : false
+download_gerber : false
+download_bom : false
 software: false
 bom: false
 design: false
