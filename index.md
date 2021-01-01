@@ -6,7 +6,7 @@ sequence: 1
 
 manufacturing: true
 downloads: true
-download_schematic: false
+download_schematic: true
 download_layout: false
 download_kicad: false
 download_gerber: false
