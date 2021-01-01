@@ -1,12 +1,12 @@
 {
-  "name": "Project2",
-  "description": "Project2",
+  "name": "Esp32Gateway",
+  "description": "ESP32 Gateway",
   "version": "1.0",
 
-  "power": "LiPo",
-  "wireless":"LoRa",
-  "sensor": "GPS, E-Ink",
-  "mcu": "SAMD21E",
+  "power": "USB",
+  "wireless":"Wifi",
+  "sensor": "",
+  "mcu": "ESP32",
 
   "status": "ongoing"
 }

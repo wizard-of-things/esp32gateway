@@ -1,4 +1,4 @@
-hardware: true
+hardware: false
 software: false
 bom: false
 design: false

@@ -28,42 +28,6 @@
   {% endif %}
 {% endif %}
 
-{% if site.data.pages.schedule == true %}
-  {% if page.url == "/schedule" %}
-    {%- include schedule.html -%}
-  {% endif %}
-{% endif %}
-
-{% if site.data.pages.design == true %}
-  {% if page.url == "/design" %}
-    {%- include design.html -%}
-  {% endif %}
-{% endif %}
-
-{% if site.data.pages.power == true %}
-  {% if page.url == "/power" %}
-    {%- include power.html -%}
-  {% endif %}
-{% endif %}
-
-{% if site.data.pages.mechanical == true %}
-  {% if page.url == "/mechanical" %}
-    {%- include mechanical.html -%}
-  {% endif %}
-{% endif %}
-
-{% if site.data.pages.lessons == true %}
-  {% if page.url == "/lessons" %}
-    {%- include lessons.html -%}
-  {% endif %}
-{% endif %}
-
-{% if site.data.pages.references == true %}
-  {% if page.url == "/references" %}
-    {%- include references.html -%}
-  {% endif %}
-{% endif %}
-
 {{ content }}
 {%- include footer.html -%}
 
@@ -78,18 +42,6 @@
   {% if page.url == "/software" %}
   <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.8/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script>
-  {% endif %}
-{% endif %}
-
-{% if site.data.pages.schedule == true %}
-  {% if page.url == "/schedule" %}
-    {%- include schedule-script.html -%}
-  {% endif %}
-{% endif %}
-
-{% if site.data.pages.bom == true %}
-  {% if page.url == "/bom" %}
-    {%- include bom-script.html -%}
   {% endif %}
 {% endif %}
 
