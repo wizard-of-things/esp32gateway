@@ -1,8 +1,4 @@
 hardware: true
-manufacturing : false
-kicad : false
-gerber : false
-three_d : false
 software: false
 bom: false
 design: false
