@@ -5,7 +5,7 @@
 
   "power": "USB",
   "wireless":"Wifi",
-  "sensor": "",
+  "sensor": "BLE",
   "mcu": "ESP32",
 
   "status": "ongoing"

@@ -6,12 +6,12 @@
 {%- include header.html -%}
 {%- include tabs.html -%}
 
-{% if page.url == "/" %}
+{% if page.url == "/index.html" %}
   {%- include start.html -%}
 {% endif %}
 
 {% if site.data.pages.hardware == true %}
-  {% if page.url == "/hardware" %}
+  {% if page.url == "/hardware.html" %}
     {%- include hardware.html -%}
   {% endif %}
 {% endif %}
